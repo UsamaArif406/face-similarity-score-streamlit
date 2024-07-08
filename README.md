@@ -1,4 +1,4 @@
-## Facial Similarity Search Streamlit App
+# Facial Similarity Search Streamlit App
 This Streamlit application allows users to upload images of family members (mom, dad, and child) and perform facial similarity searches using DeepFace and Pinecone. The app generates facial embeddings, stores them in Pinecone, and provides a t-SNE visualization of the embeddings.
 
 ## Features
